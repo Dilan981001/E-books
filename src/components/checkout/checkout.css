@@ -1,0 +1,16 @@
+
+
+  .mb-3{
+    margin-top: 50px;
+  }
+
+  .card{
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
